@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Outcomes</string>
+    <string-array name = "names">
+        <item>Select</item>
+        <item>Shooting</item>
+        <item>Assault</item>
+        <item>Child Abuse</item>
+        <item>Murder</item>
+        <item>Stalking</item>
+    </string-array>
+</resources>
